@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ishikadd
-- 👀 I’m interested in cloud computing and learning new coding languages and skills 
+- 👀 I’m interested in data analysis and learning new coding languages and skills 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate with people on projects, to learn and develop new skills.
 - 📫 how to reach me : through email ishikadorlikar112@gmail.com
